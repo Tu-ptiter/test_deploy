@@ -149,7 +149,7 @@ const Header = () => {
                 className="w-20 h-12 object-contain "
               />
               <span className="text-2xl font-bold text-gray-800 hidden md:block">
-                Wisdom's Beacon ugiug
+                Wisdom's Beacon 
               </span>
             </a>
 
